@@ -1,4 +1,4 @@
-_The book i am reading or read._
+_The book i am reading or i have read._
 
 #####reading:
     《人月神话》
@@ -7,6 +7,7 @@ _The book i am reading or read._
     《程序员的数学》
     《Unix环境高级编程》
     《鸟哥的私房菜》
+    《HeadFirst 设计模式》
 #####read:
     《编码的奥秘》
     《Python编程入门》
