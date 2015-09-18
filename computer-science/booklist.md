@@ -1,14 +1,14 @@
 _The book i am reading or i have read._
 
 #####reading:
-    《人月神话》
-    《黑客与画家》
     《计算机程序的构造和解释》
-    《程序员的数学》
     《Unix环境高级编程》
     《鸟哥的私房菜》
     《HeadFirst 设计模式》
 #####read:
+    《程序员的数学》
+    《人月神话》
+    《黑客与画家》
     《编码的奥秘》
     《Python编程入门》
     《编程珠玑》
