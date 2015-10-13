@@ -5,6 +5,9 @@ _The book i am reading or i have read._
     《Unix环境高级编程》
     《鸟哥的私房菜》
     《HeadFirst 设计模式》
+    《Effective C++》
+    《深入探索C++内存对象模型》
+    《Effective STL》
 #####read:
     《程序员的数学》
     《人月神话》
