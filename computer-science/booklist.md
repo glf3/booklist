@@ -20,3 +20,5 @@ _The book i am reading or i have read._
     《别闹了，费曼先生: 科学顽童的故事》(美)费曼
     《数据结构与算法分析：C++描述》
     《C++编程思想（Thinking in C++）》
+    《Head First Python》
+    《TCP/IP详解卷1：协议》
